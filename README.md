@@ -1,10 +1,8 @@
-# Grammarly Unlock (Chrome Extension)
+# Grammarly Unlock (Chrome Extension) 2024
 
 ## Preview
+![CleanShot 2024-04-27 at 19 39 13@2x](https://github.com/blueagler/Grammarly-Unlock/assets/61572188/307b77a5-2b1c-4e05-bba4-0ad09901aad1)
 
-<img width="1743" alt="截屏2022-08-06 23 25 43" src="https://user-images.githubusercontent.com/61572188/183255458-c0469c30-afde-4fe5-bc57-2a86e33d44d4.png">
-
-https://user-images.githubusercontent.com/61572188/183255284-ec0ed1b4-77d4-42d2-988a-7de382a38ae3.mov
 
 ## Features
 
