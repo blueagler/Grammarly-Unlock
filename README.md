@@ -1,4 +1,4 @@
-# Grammarly Unlock (Chrome Extension) 2024.4.48 V0.0.4
+# Grammarly Unlock (Chrome Extension) 2024.5.5 V0.0.5
 
 ## Preview
 ![CleanShot 2024-04-28 at 14 41 06@2x](https://github.com/blueagler/Grammarly-Unlock/assets/61572188/bfe38f9c-faee-42dd-b8c1-b9871bf4e60b)
