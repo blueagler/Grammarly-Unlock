@@ -2,9 +2,11 @@
 
 ## Preview
 ![CleanShot 2024-04-28 at 14 41 06@2x](https://github.com/blueagler/Grammarly-Unlock/assets/61572188/bfe38f9c-faee-42dd-b8c1-b9871bf4e60b)
+![CleanShot 2024-06-01 at 10 48 30@2x](https://github.com/blueagler/Grammarly-Unlock/assets/61572188/467a2f5b-7cb8-452d-a467-69a277bc4c86)
+
 
 ## Features
-
+- Plagiarism Checker
 - Reveal premium suggestions
 - Use Tone Detector on web
 
